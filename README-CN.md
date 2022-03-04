@@ -1,7 +1,7 @@
-# da.systems official website
+# gogodas official website
 
 ## DAS 生态集成
-如果您的产品已经加入了 DAS 生态，您可以通过提交 PR 在 [DAS 官网](http://da.systems/#integration) 生态集成模块展示您的品牌。
+如果您的产品已经加入了 DAS 生态，您可以通过提交 PR 在 [DAS 官网](https://www.gogodas.com/#integration) 生态集成模块展示您的品牌。
 
 ### 提交内容
 1. 中英文版本产品名称。
