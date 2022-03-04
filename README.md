@@ -1,7 +1,7 @@
-# da.systems official website
+# www.gogodas.com official website
 [简体中文](./README-CN.md)
 ## DAS eco-integration
-If your product is already part of the DAS Eco, you can showcase your brand on the [DAS official website](http://da.systems/#integration) eco-integration module by submitting a PR.
+If your product is already part of the DAS Eco, you can showcase your brand on the [DAS official website](http://www.gogodas.com/#integration) eco-integration module by submitting a PR.
 
 ### Submission content
 1. Product name in English and Chinese.
