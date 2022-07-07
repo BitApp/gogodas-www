@@ -14,7 +14,7 @@ if (queryString) {
   const gogodasUrl = `https://app.gogodas.com/explorer?${queryString}`
   const denameUrl = `https://app.dename.com?${queryString}`
   const dasUrl = `https://app.did.id/explorer?${queryString}`
-  const bestdasUrl = `https://https://did.top?${queryString}`
+  const bestdasUrl = `https://did.top?${queryString}`
   $('#denameUrl').attr('href', denameUrl)
   $('#gogodasUrl').attr('href', gogodasUrl)
   $('#dasUrl').attr('href', dasUrl)
